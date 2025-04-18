@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <Navbar></Navbar>
+      <login></login>
     </div>
   );
 }
